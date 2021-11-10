@@ -22,5 +22,6 @@
   📫 How to reach me: <a href='mailto:Gliversonfrp@gmail.com'>Gliversonfrp@gmail.com</a>
 </p>
 
+![Snake animation](https://github.com/Gliverson01/Gliverson01/blob/output/github-contribution-grid-snake.svg)
 
 
