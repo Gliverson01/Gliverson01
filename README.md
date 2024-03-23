@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Welcome!&section=header&reversal=false&textBg=false&animation=twinkling&fontColor=2FA900&fontSize=50"/> 
+
 <h1 align="center">
     <img src="[https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&pause=1000&color=2FA900&background=FF044A00&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Gliverson+Almeida!%F0%9F%90%AB)](https://git.io/typing-svg](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=500&size=35&duration=4000&pause=500&color=3CD700&background=FF044A00&center=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Gliverson+Almeida!%F0%9F%90%AB")/>
 </h1>
