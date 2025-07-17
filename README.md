@@ -14,7 +14,6 @@
 
 📫 How to reach me **gliversonfrp@gmail.com**
 
-<img align="center" width="80" height="80" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
 
 </div>
 
