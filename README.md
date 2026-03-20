@@ -1,17 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6E40C9&center=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Gliverson+Almeida+%F0%9F%91%8B;AI+%26+MLOps+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6E40C9&center=true&random=false&width=650&height=70&lines=Hi%2C+I'm+Gliverson+Almeida+%F0%9F%91%8B;AI+Automation+Engineer;Building+Intelligent+Automations+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🤖 AI/MLOps Engineer · Python · LLMs · Cloud Infrastructure</h3>
+<h3 align="center">🤖 AI Automation Engineer · LLMs · Agents · Python · AWS</h3>
 
 <br/>
 
 <div align="center">
 
-🧠 Transitioning into **AI Engineering** with a strong DevOps foundation  
-🔭 Currently building projects with **LLMs, LangChain & RAG pipelines**  
-☁️ Deploying AI solutions on **AWS** with Docker & Kubernetes  
-🌱 Studying **Machine Learning, MLOps & Generative AI**  
+🤖 Building **AI Agents & intelligent automation pipelines**  
+🔗 Integrating **LLMs into real workflows** with LangChain, n8n & CrewAI  
+☁️ Deploying automations on **AWS** with Docker & Kubernetes  
+⚙️ Strong background in **DevOps/SysAdmin** powering every solution  
 📫 Reach me at **gliversonfrp@gmail.com**
 
 </div>
@@ -32,20 +32,21 @@
 
 <hr/>
 
-<h2 align="center">🤖 AI & ML Stack</h2>
+<h2 align="center">🤖 AI & Automation Stack</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-6E40C9?style=for-the-badge&logo=robot&logoColor=white"/>
 </div>
 
 <br/>
 
-<h2 align="center">⚙️ DevOps & Cloud (MLOps Foundation)</h2>
+<h2 align="center">⚙️ Infrastructure & DevOps</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -58,16 +59,17 @@
 
 <br/>
 
-<h2 align="center">🚀 Featured AI Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-| Project | Description | Tech |
+| Project | Description | Stack |
 |---|---|---|
-| 🔍 **RAG Pipeline** | Retrieval-Augmented Generation with local LLMs | LangChain · FAISS · Ollama |
-| 🤖 **AI Infra Monitor** | Anomaly detection on infrastructure metrics | Python · ML · Prometheus |
-| ⚙️ **Ansible + Docker Automation** | Automated provisioning & containerized deploy | Ansible · Docker · Linux |
-| 📡 **Web Monitor** | Real-time availability & response tracking | Python · Flask · AWS |
+| 🤖 **AI Agent for Task Automation** | Autonomous agent that reads, decides and acts on workflows | LangChain · CrewAI · FastAPI |
+| 🔍 **RAG Document Pipeline** | Answers questions over private docs using local LLMs | LlamaIndex · FAISS · Ollama |
+| 🔗 **n8n + LLM Workflow** | No-code automation flows powered by AI | n8n · OpenAI API · Webhooks |
+| 📡 **Infra Monitor + Anomaly Detection** | Real-time infra monitoring with ML-based alerting | Python · Prometheus · AWS |
+| ⚙️ **Ansible + Docker Automation** | Automated server provisioning & containerized deploy | Ansible · Docker · Linux |
 
 </div>
 
