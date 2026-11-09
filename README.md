@@ -1,95 +1,31 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6E40C9&center=true&random=false&width=650&height=70&lines=Hi%2C+I'm+Gliverson+Almeida+%F0%9F%91%8B;AI+Automation+Engineer;Building+Intelligent+Automations+%F0%9F%A4%96" alt="Typing SVG" />
-</h1>
+## Hi, I'm Gliverson Almeida
 
-<h3 align="center">🤖 AI Automation Engineer · LLMs · Agents · Python · AWS</h3>
+**Site Reliability Engineer** at ChatGuru, a WhatsApp customer service SaaS. I run 22 production environments on
+managed Kubernetes (100+ nodes, 3,000+ pods) with MongoDB, Kafka and AWS.
 
-<br/>
+What I work on:
 
-<div align="center">
+- **Incident response with evidence:** correlating Prometheus metrics, Loki logs, Kafka queues and the database
+  until the root cause is proven, then writing it down as a postmortem and a runbook.
+- **Observability:** Prometheus, Loki, Grafana and alerting that points to the source of each alert.
+- **Cloud cost:** AWS and OVHcloud cost analysis, from usage metrics to right-sizing.
+- **AI for operations, safely:** AI agents (Claude Code, MCP) that help with investigation, behind tested guardrails
+  that block production writes and keep credentials and customer data out of reach.
 
-🤖 Building **AI Agents & intelligent automation pipelines**  
-🔗 Integrating **LLMs into real workflows** with LangChain, n8n & CrewAI  
-☁️ Deploying automations on **AWS** with Docker & Kubernetes  
-⚙️ Strong background in **DevOps/SysAdmin** powering every solution  
-📫 Reach me at **gliversonfrp@gmail.com**
+### Projects
 
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:gliversonfrp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/gliverson-almeida/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://gliversonalmeida.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">🤖 AI & Automation Stack</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-6E40C9?style=for-the-badge&logo=robot&logoColor=white"/>
-</div>
-
-<br/>
-
-<h2 align="center">⚙️ Infrastructure & DevOps</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</div>
-
-<br/>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-| Project | Description | Stack |
+| Project | What it shows | Stack |
 |---|---|---|
-| 🤖 **AI Agent for Task Automation** | Autonomous agent that reads, decides and acts on workflows | LangChain · CrewAI · FastAPI |
-| 🔍 **RAG Document Pipeline** | Answers questions over private docs using local LLMs | LlamaIndex · FAISS · Ollama |
-| 🔗 **n8n + LLM Workflow** | No-code automation flows powered by AI | n8n · OpenAI API · Webhooks |
-| 📡 **Infra Monitor + Anomaly Detection** | Real-time infra monitoring with ML-based alerting | Python · Prometheus · AWS |
-| ⚙️ **Ansible + Docker Automation** | Automated server provisioning & containerized deploy | Ansible · Docker · Linux |
+| [kubernetes-pick](https://github.com/Gliverson01/kubernetes-pick) | Hands-on Kubernetes labs from the LINUXtips PICK program, in progress | Kubernetes · kind |
+| [Pipeline-CI-CD-com-GitHub-Actions-e-FastAPI](https://github.com/Gliverson01/Pipeline-CI-CD-com-GitHub-Actions-e-FastAPI) | CI/CD with tests, linting and a Docker build | GitHub Actions · Docker · Python |
+| [Automacao-de-Rotinas-com-Ansible-e-Docker](https://github.com/Gliverson01/Automacao-de-Rotinas-com-Ansible-e-Docker) | Linux provisioning and containerized deploys | Ansible · Docker · Shell |
 
-</div>
+### Stack
 
-<br/>
+Kubernetes · Kustomize · Docker · Prometheus · Grafana · Loki · AWS · OVHcloud · MongoDB · Kafka · Terraform ·
+GitHub Actions · Ansible · Python · Bash · Claude Code · MCP
 
-<h2 align="center">📊 GitHub Stats</h2>
+### Contact
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gliverson01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gliverson01&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gliverson01&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gliverson01&color=6E40C9&style=flat-square&label=Profile+Views" />
-</div>
+[LinkedIn](https://www.linkedin.com/in/gliverson-almeida/) · [Website](https://www.gliversonalmeida.com.br/) ·
+gliversonfrp@gmail.com
