@@ -16,6 +16,7 @@ What I work on:
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [Monitoramento-de-Infraestrutura-Web](https://github.com/Gliverson01/Monitoramento-de-Infraestrutura-Web) | Synthetic monitoring of my website with a 99.5% SLO, burn-rate alerts tested with promtool and CI that boots the stack | Prometheus · Blackbox · Grafana · GitHub Actions |
 | [kubernetes-pick](https://github.com/Gliverson01/kubernetes-pick) | Hands-on Kubernetes labs from the LINUXtips PICK program, in progress | Kubernetes · kind |
 | [Pipeline-CI-CD-com-GitHub-Actions-e-FastAPI](https://github.com/Gliverson01/Pipeline-CI-CD-com-GitHub-Actions-e-FastAPI) | CI/CD with tests, linting and a Docker build | GitHub Actions · Docker · Python |
 | [Automacao-de-Rotinas-com-Ansible-e-Docker](https://github.com/Gliverson01/Automacao-de-Rotinas-com-Ansible-e-Docker) | Linux provisioning and containerized deploys | Ansible · Docker · Shell |
