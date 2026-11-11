@@ -16,6 +16,7 @@ What I work on:
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [ai-ops-guardrails](https://github.com/Gliverson01/ai-ops-guardrails) | Claude Code hook that lets an AI agent investigate production without changing it: parses each command and blocks writes to Kubernetes, databases, S3, Terraform and protected branches | Python · Claude Code · pytest |
 | [Monitoramento-de-Infraestrutura-Web](https://github.com/Gliverson01/Monitoramento-de-Infraestrutura-Web) | Synthetic monitoring of my website with a 99.5% SLO, burn-rate alerts tested with promtool and CI that boots the stack | Prometheus · Blackbox · Grafana · GitHub Actions |
 | [kubernetes-pick](https://github.com/Gliverson01/kubernetes-pick) | Hands-on Kubernetes labs from the LINUXtips PICK program, in progress | Kubernetes · kind |
 | [Pipeline-CI-CD-com-GitHub-Actions-e-FastAPI](https://github.com/Gliverson01/Pipeline-CI-CD-com-GitHub-Actions-e-FastAPI) | CI/CD with tests, linting and a Docker build | GitHub Actions · Docker · Python |
